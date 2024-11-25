@@ -3,7 +3,7 @@ An NLP model to classify abstract sentences into the role they play (e.g. object
 
 Try Demo; **[WEB APP](https://huggingface.co/spaces/Vrk/SkimLit)**
 
-<img src="images/app.png" width=80% height=80%>
+<img src="images/skimlit.png" width=80% height=80%>
 
 * **More specificially, I'am going to replicate the deep learning model behind the 2017 paper [*PubMed 200k RCT: a Dataset for Sequenctial Sentence Classification in Medical Abstracts*](https://arxiv.org/abs/1710.06071).**
 
